@@ -1,5 +1,5 @@
-# Nex-Online-Banking
-Simple Online Banking Application Using Java Swing   
+# IBANK-Banking
+Simple Online Banking Application Using Java FX   
 ## The Application consists of:
 - Login page
 - Signup page
